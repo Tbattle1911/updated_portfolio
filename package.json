@@ -1,0 +1,24 @@
+{
+  "name": "updated_portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tbattle1911/updated_portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tbattle1911/updated_portfolio/issues"
+  },
+  "homepage": "https://github.com/Tbattle1911/updated_portfolio#readme",
+  "dependencies": {
+    "install": "^0.13.0",
+    "materialize-css": "^1.0.0-rc.2",
+    "npm": "^6.10.2"
+  }
+}
